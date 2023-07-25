@@ -1,6 +1,6 @@
 # Hotel-Data-Analysis
 
-This is a Data Science project. It consists of two jupyter notebook files, one guided by codebasics.io and another one contains 20 data analysis queries generated personally. 
+This is a Data Science project. It consists of two jupyter notebook files, one guided by codebasics.io and another one contains 10 data analysis queries generated personally. 
 
 The following practicals are practised on hotel data sets (six csv files) provided by codebasics.io:
 
