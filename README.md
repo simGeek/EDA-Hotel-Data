@@ -1,4 +1,4 @@
-# Hotel-Data-Analysis
+# EDA-Hotel-Data
 
 This is a Data Analytics/Science project. It consists of two jupyter notebook files, one guided by codebasics.io and another one contains 10 data analysis queries generated personally. 
 
